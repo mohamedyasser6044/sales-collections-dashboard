@@ -1,6 +1,6 @@
 # Real Estate Sales & Collections Dashboard
 
-Power BI dashboard built as the graduation project for the **Data Analysis Diploma (INSTANT)**. It gives a real estate developer a single view of sales performance, cash collection, and financial risk across projects, banks, and time.
+Power BI dashboard built as the graduation project for the **Data Analysis Diploma (Route Academy)**. It gives a real estate developer a single view of sales performance, cash collection, and financial risk across projects, banks, and time.
 
 ## Business context
 
